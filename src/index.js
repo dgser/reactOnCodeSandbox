@@ -12,6 +12,6 @@ function App() {
   );
 }
 
-const name = 'Los Angelas';
+const name = "Chicago";
 const rootElement = document.getElementById("root");
 ReactDOM.render(<h1>Hello {name}</h1>, rootElement);
